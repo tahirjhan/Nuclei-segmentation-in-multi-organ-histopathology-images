@@ -9,5 +9,5 @@
 MATLAB R2019a (Latest version at the time of experiments)
 
 ## Result
-
-
+<img src="https://github.com/tahirjhan/Nuclei-segmentation-in-multi-organ-histopathology-images/blob/92526ab6c86d62e8bc3f6226355e368d64ab341e/proposed_method.png" width="600" />
+<img src="https://github.com/tahirjhan/Nuclei-segmentation-in-multi-organ-histopathology-images/blob/92526ab6c86d62e8bc3f6226355e368d64ab341e/sample_img2.png" width="600" />
